@@ -1,0 +1,16 @@
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.exe
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.deps.json
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.runtimeconfig.json
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.runtimeconfig.dev.json
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.dll
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\DIConsole.pdb
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.csprojAssemblyReference.cache
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.csproj.CoreCompileInputs.cache
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.AssemblyInfoInputs.cache
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.AssemblyInfo.cs
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.dll
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.pdb
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.genruntimeconfig.cache
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Source\Tadeu\Github\DIConsole\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Source\Tadeu\Github\DIConsole\obj\Debug\netcoreapp3.1\DIConsole.csproj.CopyComplete

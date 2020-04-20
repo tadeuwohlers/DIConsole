@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ptk9hwaY4HCFj+i9WBb4FXpCvzG5W3N898NJrFELlDhrXCHCjDWXdOxO1xdvf6ysfaCdGZ5UodGo8foc7K6C0Q==",
+  "success": true,
+  "projectFilePath": "D:\\Source\\Tadeu\\Github\\DIConsole\\DIConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tadeu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.3\\microsoft.extensions.dependencyinjection.3.1.3.nupkg.sha512",
+    "C:\\Users\\tadeu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.3\\microsoft.extensions.dependencyinjection.abstractions.3.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
